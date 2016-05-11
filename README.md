@@ -29,5 +29,5 @@ fisher sektor
 [fisherman]: https://github.com/fisherman/fisherman
 [Powerline]: https://github.com/powerline/fonts
 [Sektor.itermcolors]: Sektor.itermcolors
-[Sektor.terminal]: Sektor.itermcolors
+[Sektor.terminal]: Sektor.terminal
 [Sektor]: https://cloud.githubusercontent.com/assets/8317250/15160484/c9f74066-1734-11e6-8047-ddd2ecb3646f.png
