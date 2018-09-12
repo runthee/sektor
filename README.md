@@ -23,7 +23,7 @@ fisher sektor
 
 ## License
 
-Sektor is MIT licensed. See LICENSE.
+Sektor is MIT licensed. See [LICENSE](/LICENSE).
 
 [fisher]: https://github.com/jorgebucaran/fisher
 [Powerline]: https://github.com/powerline/fonts
