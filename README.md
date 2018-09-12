@@ -6,9 +6,9 @@
 
 ![Sektor]
 
-## Install
+## Installation
 
-With [fisherman]
+With [fisher]:
 
 ```fish
 fisher sektor
@@ -21,10 +21,11 @@ fisher sektor
 * Font: 16pt Source Code Pro Medium
 * Non-ASCII Font: 17pt Source Code Pro for [Powerline]
 
-[slack-link]: https://fisherman-wharf.herokuapp.com/
-[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+## License
 
-[fisherman]: https://github.com/fisherman/fisherman
+Sektor is MIT licensed. See LICENSE.
+
+[fisher]: https://github.com/jorgebucaran/fisher
 [Powerline]: https://github.com/powerline/fonts
 [Sektor.itermcolors]: Sektor.itermcolors
 [Sektor.terminal]: Sektor.terminal
