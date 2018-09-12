@@ -15,13 +15,12 @@ function fish_right_prompt
         set status_color f00
     end
 
-    set __cmd_duration $CMD_DURATION 0
-    if test "$__cmd_duration" -gt 100
+    if test "$CMD_DURATION$cmd_duration" -gt 100
         if test ! -z "$status_code"
             echo -sn (set_color $status_color) "$status_code ╱" (set_color normal)
         end
 
-        set -l duration (echo $__duration | humanize_duration)
+        set -l duration (echo "$CMD_DURATION$cmd_duration" | humanize_duration)
         echo -sn (set_color $status_color) " $duration " (set_color normal)
         set status_glyph ┃
     else
