@@ -1,5 +1,3 @@
-[![Slack Room][slack-badge]][slack-link]
-
 # Sektor
 
 > “I will show no mercy!” — _Sektor_
